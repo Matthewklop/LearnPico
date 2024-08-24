@@ -12,6 +12,7 @@ This guide will help you:
 
 Before diving into the projects, ensure your Raspberry Pi Pico and development environment are ready. Follow these setup instructions:
 - [Setting up your Raspberry Pi Pico](https://www.raspberrypi.org/documentation/microcontrollers/micropython.html)
+![image](https://github.com/user-attachments/assets/da3fa259-b5df-48ef-813e-609eec21aebc)
 
 ## Tutorials
 
