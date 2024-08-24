@@ -11,6 +11,8 @@ This guide will help you:
 ## Setup Instructions
 
 Before diving into the projects, ensure your Raspberry Pi Pico and development environment are ready. Follow these setup instructions:
+![image](https://github.com/user-attachments/assets/5cedaa57-e79b-478d-b52d-6c21df2d6a57)
+
 - [Setting up your Raspberry Pi Pico](https://www.raspberrypi.org/documentation/microcontrollers/micropython.html)
 ![image](https://www.raspberrypi.com/documentation/microcontrollers/images/MicroPython-640x360-v2.gif)
 
@@ -46,6 +48,10 @@ Before diving into the projects, ensure your Raspberry Pi Pico and development e
 ## Community and Support
 - [Raspberry Pi Forums](https://forums.raspberrypi.com/)
 - [Reddit r/raspberry_pi](https://www.reddit.com/r/raspberry_pi/)
+
+
+Thonny PDF  | https://python.quectel.com/doc/Application_guide/en/dev-tools/Thonny/index.html
+
 
 ## Contributing
 
