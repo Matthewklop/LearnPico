@@ -12,7 +12,9 @@ This guide will help you:
 
 Before diving into the projects, ensure your Raspberry Pi Pico and development environment are ready. Follow these setup instructions:
 - [Setting up your Raspberry Pi Pico](https://www.raspberrypi.org/documentation/microcontrollers/micropython.html)
-https://www.raspberrypi.com/documentation/microcontrollers/images/MicroPython-640x360-v2.gif
+![image](https://www.raspberrypi.com/documentation/microcontrollers/images/MicroPython-640x360-v2.gif)
+
+
 ## Tutorials
 
 ### Getting Started
@@ -32,6 +34,7 @@ https://www.raspberrypi.com/documentation/microcontrollers/images/MicroPython-64
 - **Robotics:** Build and control robots with the Pico.
 
 ## Resources
+![image](https://github.com/user-attachments/assets/267f21df-050f-4665-b996-57faf604c288)
 
 - **Official Documentation**
   - [Raspberry Pi Pico Python SDK](https://datasheets.raspberrypi.com/pico/raspberry-pi-pico-python-sdk.pdf)
